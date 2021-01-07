@@ -9,3 +9,4 @@
 - 📫 Reach me via [facebook](https://www.facebook.com/mahendra.chevro)
 
 [![🦉 mchevro's github stats](https://github-readme-stats.vercel.app/api?username=mchevro&show_icons=true&hide_border=true&hide=issues)](https://github.com/mchevro)
+[![🦉 mchevro's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mchevro&hide_langs_below=1)](https://github.com/mchevro)
